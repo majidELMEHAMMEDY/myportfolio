@@ -5,6 +5,7 @@ body{
   font-family: 'Lato', sans-serif;
   color: #505962;
 }
+
 .offset:before{
   display: block;
   content: "";
@@ -49,7 +50,7 @@ body{
   position:absolute;
   position: absolute;
 
-  top: 50%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;
