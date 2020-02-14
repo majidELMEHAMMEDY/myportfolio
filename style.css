@@ -79,6 +79,8 @@ body{
   border-radius: 0;
   padding: .6rem 1.3rem;
   font-size: 1.1rem;
+  box-sizing: border-box;
+  width: 300px;
 
 
 }
